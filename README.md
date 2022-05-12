@@ -14,7 +14,11 @@ This is a streamlit dashboard that can be used to analyzed drug use with the goa
 # Requirements
 
 streamlit
+
 pandas
+
 numpy
+
 plotly.express
+
 altair

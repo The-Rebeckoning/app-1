@@ -6,7 +6,7 @@
 
 # Introduction
 
-This is a streamlit dashboard that can be used to analyzed drug use with the goal of preventing addiction.
+This is a streamlit dashboard that can be used to analyzed drug use with the goal of preventing addiction. It's featured on my website. 
 
 **Source**: [National Survey on Drug Use and Health from the Substance Abuse and Mental Health Data Archive](https://www.samhsa.gov/data/report/2020-nsduh-detailed-tables).
 

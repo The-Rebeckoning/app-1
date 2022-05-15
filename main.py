@@ -29,7 +29,7 @@ st.markdown('''
     **Source**: [National Survey on Drug Use and Health from the Substance Abuse and Mental Health Data Archive](https://www.samhsa.gov/data/report/2020-nsduh-detailed-tables).
     ''')
 
-st.header("Key takeways")
+st.header("Key takeaways")
 st.subheader("Alcohol is the most widely used substance")
 st.metric(label="Percent of 15 year olds who have used alcohol in the last 12 months", value="29.2%")
 
